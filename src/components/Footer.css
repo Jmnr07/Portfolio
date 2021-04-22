@@ -1,0 +1,14 @@
+.footer-container {
+    background: linear-gradient(90deg, rgb(14,12,12) 0%, rgb(116, 109, 109) 100%);
+    color: rgba(88, 117, 172, 0.856);
+    padding: 4rem 0 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-size-adjust: 100%;
+}
+
+
+
