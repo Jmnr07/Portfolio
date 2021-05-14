@@ -1,5 +1,4 @@
 import React from 'react';
-import {Button} from './Button';
 import './Footer.css';
 
 function Footer() {
@@ -14,9 +13,6 @@ function Footer() {
                     JMNR 
                     <i className="fas fa-user-astronaut" />
                 </p>
-                    <div>
-                            <Button buttonStyle='btn--outline'>Contact Me</Button>
-                    </div>  
             </section>
             <div className='footer-links'>
                 <div className='footer-link-wrapper'>

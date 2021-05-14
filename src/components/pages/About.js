@@ -1,15 +1,16 @@
 import React  from 'react';
+
 import '../../App.css';
 import HeroAbout from './HeroAbout'
 import Footer from '../Footer'
+import AboutMe from '../AboutMe'
+
 
 export default function About() {
     return (
     <div>
-        <h1 className='about'>
-            <HeroAbout />
-        </h1>
-        
+        <HeroAbout />
+        <AboutMe />
         <Footer />
     </div>
         )
